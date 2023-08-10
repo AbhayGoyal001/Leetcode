@@ -13,24 +13,27 @@
  *     }
  * }
  */
-class Solution {
-    public int diameterOfBinaryTree(TreeNode root) {
-			if (root == null) {
-				return 0;
-			}
+public class DiaPair {
+        int ht = -1;
+        int d = 0;
+    }
+    class Solution {
 
-			int ld = diameterOfBinaryTree(root.left);
-			int rd = diameterOfBinaryTree(root.right);
-			int sd = ht(root.left) + ht(root.right) + 2;
-			return Math.max(ld, Math.max(rd, sd));
-		}
+        public int diameterOfBinaryTree(TreeNode root) {
+            return diameter(root).d;
+        }
+        public DiaPair diameter(TreeNode root) {
+            if (root == null) {
+                return new DiaPair();
+            }
+            DiaPair ldp = diameter(root.left);
+            DiaPair rdp = diameter(root.right);
+            DiaPair sdp = new DiaPair();
 
-		public int ht(TreeNode root) {
-			if (root == null) {
-				return -1;
-			}
-			int lh = ht(root.left);
-			int rh = ht(root.right);
-			return Math.max(lh, rh) + 1;
-		}
-}
+            int sd = ldp.ht + rdp.ht + 2;
+            sdp.d = Math.max(ldp.d, Math.max(rdp.d, sd));
+            sdp.ht = Math.max(ldp.ht, rdp.ht) + 1;
+            return sdp;
+
+        }
+    }
