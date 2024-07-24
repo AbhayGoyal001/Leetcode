@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/AbhayGoyal001/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1333-sort-the-jumbled-numbers](https://github.com/AbhayGoyal001/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AbhayGoyal001/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AbhayGoyal001/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
@@ -87,5 +88,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [1333-sort-the-jumbled-numbers](https://github.com/AbhayGoyal001/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AbhayGoyal001/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 <!---LeetCode Topics End-->
