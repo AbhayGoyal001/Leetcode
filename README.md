@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/AbhayGoyal001/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AbhayGoyal001/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AbhayGoyal001/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AbhayGoyal001/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/AbhayGoyal001/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AbhayGoyal001/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
 |  |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AbhayGoyal001/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0273-integer-to-english-words](https://github.com/AbhayGoyal001/Leetcode/tree/master/0273-integer-to-english-words) |
 ## Array
 |  |
 | ------- |
