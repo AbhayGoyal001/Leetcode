@@ -53,12 +53,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AbhayGoyal001/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AbhayGoyal001/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0999-regions-cut-by-slashes](https://github.com/AbhayGoyal001/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AbhayGoyal001/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AbhayGoyal001/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AbhayGoyal001/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0999-regions-cut-by-slashes](https://github.com/AbhayGoyal001/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/AbhayGoyal001/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Tree
 |  |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/AbhayGoyal001/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/AbhayGoyal001/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/AbhayGoyal001/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/AbhayGoyal001/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AbhayGoyal001/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AbhayGoyal001/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -99,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AbhayGoyal001/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0870-magic-squares-in-grid](https://github.com/AbhayGoyal001/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/AbhayGoyal001/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AbhayGoyal001/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AbhayGoyal001/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AbhayGoyal001/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -109,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/AbhayGoyal001/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/AbhayGoyal001/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/AbhayGoyal001/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AbhayGoyal001/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Two Pointers
 |  |
@@ -173,4 +178,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/AbhayGoyal001/Leetcode/tree/master/0921-spiral-matrix-iii) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/AbhayGoyal001/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
