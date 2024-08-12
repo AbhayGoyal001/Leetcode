@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AbhayGoyal001/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AbhayGoyal001/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AbhayGoyal001/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AbhayGoyal001/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Depth-First Search
 |  |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AbhayGoyal001/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AbhayGoyal001/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AbhayGoyal001/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AbhayGoyal001/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Linked List
 |  |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AbhayGoyal001/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -190,4 +193,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AbhayGoyal001/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AbhayGoyal001/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AbhayGoyal001/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AbhayGoyal001/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
