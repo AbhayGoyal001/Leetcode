@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0870-magic-squares-in-grid](https://github.com/AbhayGoyal001/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/AbhayGoyal001/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/0948-sort-an-array) |
@@ -205,4 +206,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AbhayGoyal001/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
