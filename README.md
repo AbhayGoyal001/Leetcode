@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AbhayGoyal001/Leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/AbhayGoyal001/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/AbhayGoyal001/Leetcode/tree/master/0476-number-complement) |
 ## Greedy
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/AbhayGoyal001/Leetcode/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/AbhayGoyal001/Leetcode/tree/master/0078-subsets) |
 | [0624-maximum-distance-in-arrays](https://github.com/AbhayGoyal001/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AbhayGoyal001/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/AbhayGoyal001/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/AbhayGoyal001/Leetcode/tree/master/0078-subsets) |
 ## Game Theory
 |  |
 | ------- |
