@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/AbhayGoyal001/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/AbhayGoyal001/Leetcode/tree/master/0476-number-complement) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AbhayGoyal001/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AbhayGoyal001/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Greedy
 |  |
 | ------- |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2411-spiral-matrix-iv](https://github.com/AbhayGoyal001/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AbhayGoyal001/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/AbhayGoyal001/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AbhayGoyal001/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -287,4 +289,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbhayGoyal001/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AbhayGoyal001/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
