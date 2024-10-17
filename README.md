@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/AbhayGoyal001/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/AbhayGoyal001/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AbhayGoyal001/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0670-maximum-swap](https://github.com/AbhayGoyal001/Leetcode/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/AbhayGoyal001/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/AbhayGoyal001/Leetcode/tree/master/0909-stone-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AbhayGoyal001/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/AbhayGoyal001/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0670-maximum-swap](https://github.com/AbhayGoyal001/Leetcode/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/AbhayGoyal001/Leetcode/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AbhayGoyal001/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AbhayGoyal001/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
