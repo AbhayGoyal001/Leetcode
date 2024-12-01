@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/AbhayGoyal001/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1325-path-with-maximum-probability](https://github.com/AbhayGoyal001/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AbhayGoyal001/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/AbhayGoyal001/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AbhayGoyal001/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AbhayGoyal001/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AbhayGoyal001/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AbhayGoyal001/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/AbhayGoyal001/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AbhayGoyal001/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/AbhayGoyal001/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AbhayGoyal001/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/AbhayGoyal001/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AbhayGoyal001/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbhayGoyal001/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/AbhayGoyal001/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AbhayGoyal001/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/AbhayGoyal001/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AbhayGoyal001/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AbhayGoyal001/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
@@ -211,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AbhayGoyal001/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AbhayGoyal001/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/AbhayGoyal001/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AbhayGoyal001/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AbhayGoyal001/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AbhayGoyal001/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -273,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AbhayGoyal001/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/AbhayGoyal001/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AbhayGoyal001/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AbhayGoyal001/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AbhayGoyal001/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
