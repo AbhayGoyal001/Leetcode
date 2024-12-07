@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AbhayGoyal001/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AbhayGoyal001/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/AbhayGoyal001/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AbhayGoyal001/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2035-count-sub-islands](https://github.com/AbhayGoyal001/Leetcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AbhayGoyal001/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AbhayGoyal001/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AbhayGoyal001/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AbhayGoyal001/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AbhayGoyal001/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AbhayGoyal001/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AbhayGoyal001/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AbhayGoyal001/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
