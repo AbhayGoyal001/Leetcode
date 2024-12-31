@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/AbhayGoyal001/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/AbhayGoyal001/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1025-minimum-cost-for-tickets](https://github.com/AbhayGoyal001/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1196-filling-bookcase-shelves](https://github.com/AbhayGoyal001/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AbhayGoyal001/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1325-path-with-maximum-probability](https://github.com/AbhayGoyal001/Leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0909-stone-game](https://github.com/AbhayGoyal001/Leetcode/tree/master/0909-stone-game) |
+| [1025-minimum-cost-for-tickets](https://github.com/AbhayGoyal001/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1196-filling-bookcase-shelves](https://github.com/AbhayGoyal001/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AbhayGoyal001/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AbhayGoyal001/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
