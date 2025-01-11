@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0564-find-the-closest-palindrome](https://github.com/AbhayGoyal001/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AbhayGoyal001/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AbhayGoyal001/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1502-construct-k-palindrome-strings](https://github.com/AbhayGoyal001/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AbhayGoyal001/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AbhayGoyal001/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AbhayGoyal001/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/AbhayGoyal001/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/AbhayGoyal001/Leetcode/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/AbhayGoyal001/Leetcode/tree/master/0890-lemonade-change) |
+| [1502-construct-k-palindrome-strings](https://github.com/AbhayGoyal001/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AbhayGoyal001/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AbhayGoyal001/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AbhayGoyal001/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/AbhayGoyal001/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AbhayGoyal001/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AbhayGoyal001/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-construct-k-palindrome-strings](https://github.com/AbhayGoyal001/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AbhayGoyal001/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/AbhayGoyal001/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AbhayGoyal001/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -270,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/0948-sort-an-array) |
+| [1502-construct-k-palindrome-strings](https://github.com/AbhayGoyal001/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AbhayGoyal001/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
