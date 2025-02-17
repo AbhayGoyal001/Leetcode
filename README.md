@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/AbhayGoyal001/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/AbhayGoyal001/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AbhayGoyal001/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [1160-letter-tile-possibilities](https://github.com/AbhayGoyal001/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AbhayGoyal001/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/AbhayGoyal001/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AbhayGoyal001/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/AbhayGoyal001/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AbhayGoyal001/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/AbhayGoyal001/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1160-letter-tile-possibilities](https://github.com/AbhayGoyal001/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AbhayGoyal001/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AbhayGoyal001/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/AbhayGoyal001/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/0948-sort-an-array) |
+| [1160-letter-tile-possibilities](https://github.com/AbhayGoyal001/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/AbhayGoyal001/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AbhayGoyal001/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -364,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0040-combination-sum-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/AbhayGoyal001/Leetcode/tree/master/0078-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/AbhayGoyal001/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AbhayGoyal001/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Game Theory
 |  |
