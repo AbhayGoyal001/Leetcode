@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-stone-game](https://github.com/AbhayGoyal001/Leetcode/tree/master/0909-stone-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AbhayGoyal001/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2125-gcd-sort-of-an-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/2125-gcd-sort-of-an-array) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AbhayGoyal001/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AbhayGoyal001/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AbhayGoyal001/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/AbhayGoyal001/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AbhayGoyal001/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AbhayGoyal001/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AbhayGoyal001/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AbhayGoyal001/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AbhayGoyal001/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AbhayGoyal001/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1694-make-sum-divisible-by-p](https://github.com/AbhayGoyal001/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AbhayGoyal001/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AbhayGoyal001/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AbhayGoyal001/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -293,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-construct-k-palindrome-strings](https://github.com/AbhayGoyal001/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AbhayGoyal001/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AbhayGoyal001/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
 |  |
