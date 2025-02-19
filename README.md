@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-letter-tile-possibilities](https://github.com/AbhayGoyal001/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AbhayGoyal001/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/AbhayGoyal001/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AbhayGoyal001/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AbhayGoyal001/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AbhayGoyal001/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AbhayGoyal001/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -373,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/AbhayGoyal001/Leetcode/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/AbhayGoyal001/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AbhayGoyal001/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AbhayGoyal001/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AbhayGoyal001/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Game Theory
