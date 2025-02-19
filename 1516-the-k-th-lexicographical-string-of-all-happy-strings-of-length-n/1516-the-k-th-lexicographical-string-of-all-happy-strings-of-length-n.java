@@ -1,23 +1,27 @@
 class Solution {
+    private int count = 0;
+    private String result = "";
+
     public String getHappyString(int n, int k) {
-        List<String> list = new ArrayList<String>();
-      
-        backtrack(n,"",list);
-        return (k>list.size()) ? "" : list.get(k-1);
+        backtrack(n, "", k);
+        return result;
     }
-    public static void backtrack(int n,String ans,List<String> list){
-        if(ans.length()==n) {
-            list.add(ans);
+
+    private void backtrack(int n, String ans, int k) {
+        if (ans.length() == n) {
+            count++;
+            if (count == k) {
+                result = ans;
+            }
             return;
         }
 
-        char[] c =  {'a','b','c'};
-        for(char ch :c ){
-            if(ans.isEmpty()||ans.charAt(ans.length()-1)!=ch){
-                backtrack(n,ans+ch,list);
+        char[] chars = {'a', 'b', 'c'};
+        for (char ch : chars) {
+            if (ans.isEmpty() || ans.charAt(ans.length() - 1) != ch) {
+                backtrack(n, ans + ch, k);
+                if (!result.isEmpty()) return;  // Stop early if k-th string is found
             }
         }
-
-    
     }
 }
