@@ -1,7 +1,7 @@
 class Solution {
     public String getHappyString(int n, int k) {
         List<String> list = new ArrayList<String>();
-        String ans ="";
+      
         backtrack(n,"",list);
         return (k>list.size()) ? "" : list.get(k-1);
     }
