@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AbhayGoyal001/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbhayGoyal001/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/AbhayGoyal001/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/AbhayGoyal001/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AbhayGoyal001/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/AbhayGoyal001/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/AbhayGoyal001/Leetcode/tree/master/0066-plus-one) |
 | [0264-ugly-number-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AbhayGoyal001/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/AbhayGoyal001/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0264-ugly-number-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/AbhayGoyal001/Leetcode/tree/master/0870-magic-squares-in-grid) |
