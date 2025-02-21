@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AbhayGoyal001/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AbhayGoyal001/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AbhayGoyal001/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AbhayGoyal001/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AbhayGoyal001/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/AbhayGoyal001/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AbhayGoyal001/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AbhayGoyal001/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AbhayGoyal001/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/AbhayGoyal001/Leetcode/tree/master/2035-count-sub-islands) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/AbhayGoyal001/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AbhayGoyal001/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0999-regions-cut-by-slashes](https://github.com/AbhayGoyal001/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AbhayGoyal001/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AbhayGoyal001/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/AbhayGoyal001/Leetcode/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/AbhayGoyal001/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -132,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AbhayGoyal001/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AbhayGoyal001/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AbhayGoyal001/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AbhayGoyal001/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Linked List
 |  |
@@ -216,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/AbhayGoyal001/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1160-letter-tile-possibilities](https://github.com/AbhayGoyal001/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AbhayGoyal001/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AbhayGoyal001/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AbhayGoyal001/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/AbhayGoyal001/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AbhayGoyal001/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -369,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AbhayGoyal001/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AbhayGoyal001/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
