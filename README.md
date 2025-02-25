@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/AbhayGoyal001/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/AbhayGoyal001/Leetcode/tree/master/0909-stone-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AbhayGoyal001/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AbhayGoyal001/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2125-gcd-sort-of-an-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/2125-gcd-sort-of-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AbhayGoyal001/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AbhayGoyal001/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/AbhayGoyal001/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AbhayGoyal001/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AbhayGoyal001/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AbhayGoyal001/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AbhayGoyal001/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/AbhayGoyal001/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AbhayGoyal001/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-stone-game](https://github.com/AbhayGoyal001/Leetcode/tree/master/0909-stone-game) |
 | [1025-minimum-cost-for-tickets](https://github.com/AbhayGoyal001/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1196-filling-bookcase-shelves](https://github.com/AbhayGoyal001/Leetcode/tree/master/1196-filling-bookcase-shelves) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AbhayGoyal001/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AbhayGoyal001/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AbhayGoyal001/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2562-count-ways-to-build-good-strings](https://github.com/AbhayGoyal001/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
@@ -431,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AbhayGoyal001/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AbhayGoyal001/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/AbhayGoyal001/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AbhayGoyal001/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Enumeration
