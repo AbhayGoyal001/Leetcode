@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AbhayGoyal001/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AbhayGoyal001/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/AbhayGoyal001/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AbhayGoyal001/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AbhayGoyal001/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2035-count-sub-islands](https://github.com/AbhayGoyal001/Leetcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AbhayGoyal001/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1196-filling-bookcase-shelves](https://github.com/AbhayGoyal001/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AbhayGoyal001/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AbhayGoyal001/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AbhayGoyal001/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AbhayGoyal001/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2562-count-ways-to-build-good-strings](https://github.com/AbhayGoyal001/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/AbhayGoyal001/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
