@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-stone-game](https://github.com/AbhayGoyal001/Leetcode/tree/master/0909-stone-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AbhayGoyal001/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AbhayGoyal001/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AbhayGoyal001/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2125-gcd-sort-of-an-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/2125-gcd-sort-of-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AbhayGoyal001/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AbhayGoyal001/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
