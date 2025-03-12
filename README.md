@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AbhayGoyal001/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AbhayGoyal001/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AbhayGoyal001/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AbhayGoyal001/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AbhayGoyal001/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AbhayGoyal001/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AbhayGoyal001/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AbhayGoyal001/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AbhayGoyal001/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
 |  |
@@ -376,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AbhayGoyal001/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AbhayGoyal001/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AbhayGoyal001/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AbhayGoyal001/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AbhayGoyal001/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AbhayGoyal001/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AbhayGoyal001/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
