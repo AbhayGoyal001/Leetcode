@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/AbhayGoyal001/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/AbhayGoyal001/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/AbhayGoyal001/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/AbhayGoyal001/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AbhayGoyal001/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/AbhayGoyal001/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AbhayGoyal001/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
