@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AbhayGoyal001/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AbhayGoyal001/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AbhayGoyal001/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AbhayGoyal001/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2125-gcd-sort-of-an-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/2125-gcd-sort-of-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AbhayGoyal001/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2610-closest-prime-numbers-in-range](https://github.com/AbhayGoyal001/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/AbhayGoyal001/Leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/AbhayGoyal001/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/AbhayGoyal001/Leetcode/tree/master/0476-number-complement) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AbhayGoyal001/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AbhayGoyal001/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AbhayGoyal001/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AbhayGoyal001/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/AbhayGoyal001/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AbhayGoyal001/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AbhayGoyal001/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AbhayGoyal001/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2035-count-sub-islands](https://github.com/AbhayGoyal001/Leetcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AbhayGoyal001/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2107-find-unique-binary-string](https://github.com/AbhayGoyal001/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -434,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/AbhayGoyal001/Leetcode/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/AbhayGoyal001/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AbhayGoyal001/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AbhayGoyal001/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/AbhayGoyal001/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AbhayGoyal001/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AbhayGoyal001/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -471,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AbhayGoyal001/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AbhayGoyal001/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Queue
 |  |
@@ -497,4 +502,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AbhayGoyal001/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AbhayGoyal001/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
