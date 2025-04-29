@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/AbhayGoyal001/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/AbhayGoyal001/Leetcode/tree/master/0078-subsets) |
+| [0485-max-consecutive-ones](https://github.com/AbhayGoyal001/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/AbhayGoyal001/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/AbhayGoyal001/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AbhayGoyal001/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
