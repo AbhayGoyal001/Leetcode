@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AbhayGoyal001/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/AbhayGoyal001/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AbhayGoyal001/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/0948-sort-an-array) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/AbhayGoyal001/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/AbhayGoyal001/Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/AbhayGoyal001/Leetcode/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/AbhayGoyal001/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/AbhayGoyal001/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/AbhayGoyal001/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/AbhayGoyal001/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/AbhayGoyal001/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/AbhayGoyal001/Leetcode/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/AbhayGoyal001/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AbhayGoyal001/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -313,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AbhayGoyal001/Leetcode/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/AbhayGoyal001/Leetcode/tree/master/0169-majority-element) |
 | [0539-minimum-time-difference](https://github.com/AbhayGoyal001/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AbhayGoyal001/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/0948-sort-an-array) |
@@ -350,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AbhayGoyal001/Leetcode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/0948-sort-an-array) |
 | [1160-letter-tile-possibilities](https://github.com/AbhayGoyal001/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/AbhayGoyal001/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
