@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/AbhayGoyal001/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/AbhayGoyal001/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AbhayGoyal001/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/AbhayGoyal001/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/AbhayGoyal001/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbhayGoyal001/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/AbhayGoyal001/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/AbhayGoyal001/Leetcode/tree/master/0283-move-zeroes) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AbhayGoyal001/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AbhayGoyal001/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AbhayGoyal001/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
