@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbhayGoyal001/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/AbhayGoyal001/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/AbhayGoyal001/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AbhayGoyal001/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0539-minimum-time-difference](https://github.com/AbhayGoyal001/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/AbhayGoyal001/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AbhayGoyal001/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AbhayGoyal001/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AbhayGoyal001/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AbhayGoyal001/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhayGoyal001/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AbhayGoyal001/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0977-squares-of-a-sorted-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
