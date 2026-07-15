@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/AbhayGoyal001/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/AbhayGoyal001/Leetcode/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/AbhayGoyal001/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/AbhayGoyal001/Leetcode/tree/master/0056-merge-intervals) |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/AbhayGoyal001/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/AbhayGoyal001/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbhayGoyal001/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/AbhayGoyal001/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/AbhayGoyal001/Leetcode/tree/master/0141-linked-list-cycle) |
