@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3548-find-the-count-of-good-integers](https://github.com/AbhayGoyal001/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AbhayGoyal001/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AbhayGoyal001/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AbhayGoyal001/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -530,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2125-gcd-sort-of-an-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/2125-gcd-sort-of-an-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/AbhayGoyal001/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AbhayGoyal001/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AbhayGoyal001/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String Matching
 |  |
 | ------- |
