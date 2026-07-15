@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/AbhayGoyal001/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/AbhayGoyal001/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/AbhayGoyal001/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/AbhayGoyal001/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/AbhayGoyal001/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/AbhayGoyal001/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/AbhayGoyal001/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/AbhayGoyal001/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0870-magic-squares-in-grid](https://github.com/AbhayGoyal001/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AbhayGoyal001/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -345,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/AbhayGoyal001/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AbhayGoyal001/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/AbhayGoyal001/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AbhayGoyal001/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0977-squares-of-a-sorted-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AbhayGoyal001/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -365,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/AbhayGoyal001/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AbhayGoyal001/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AbhayGoyal001/Leetcode/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/AbhayGoyal001/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0539-minimum-time-difference](https://github.com/AbhayGoyal001/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/AbhayGoyal001/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AbhayGoyal001/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -462,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhayGoyal001/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/AbhayGoyal001/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AbhayGoyal001/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AbhayGoyal001/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AbhayGoyal001/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
