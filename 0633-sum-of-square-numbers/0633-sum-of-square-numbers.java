@@ -1,18 +1,11 @@
 class Solution {
     public boolean judgeSquareSum(int c) {
-        long i =0 ;
-        long j = (long)Math.sqrt(c);
-        while(i<=j){
-            long mid = i*i+j*j;
-            if(mid == c){
-                return true;
-            }
-            else if(mid > c){
-                j--;
-            }
-            else{
-                i++;
-            }
+        int start = 0;
+        int end = (int)Math.sqrt(c);
+        while(start <= end){
+            if(Math.pow(start,2) + Math.pow(end,2) == c) return true;
+            else if(Math.pow(start,2) + Math.pow(end,2) > c) end--;
+            else if(Math.pow(start,2) + Math.pow(end,2) < c) start++;
         }
         return false;
     }
