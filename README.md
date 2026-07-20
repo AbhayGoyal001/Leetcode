@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AbhayGoyal001/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/AbhayGoyal001/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/AbhayGoyal001/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AbhayGoyal001/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AbhayGoyal001/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/AbhayGoyal001/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/AbhayGoyal001/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/AbhayGoyal001/Leetcode/tree/master/0273-integer-to-english-words) |
